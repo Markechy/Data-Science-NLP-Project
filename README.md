@@ -16,3 +16,7 @@ Developed as part of the EDOS task, this project implements an end-to-end NLP pi
 * **Languages:** Python
 * **Libraries:** PyTorch, Pandas, NumPy, HuggingFace Transformers
 * **Tools:** Jupyter Notebook, Git
+
+## Authors
+* Rena Wang  
+* Marco Gonzalez  
